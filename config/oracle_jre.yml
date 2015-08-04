@@ -21,7 +21,7 @@
 ---
 jre:
   version: 1.8.0_+
-  repository_root: "http://192.168.0.68:8000/oracle-jre/lucid/x86_64/server-jre-8u51-linux-x64.gz"
+  repository_root: "http://192.168.0.68:8000/oracle-jre/lucid/x86_64"
 memory_calculator:
   version: 1.+
   repository_root: ! '{default.repository.root}/memory-calculator/{platform}/{architecture}'
